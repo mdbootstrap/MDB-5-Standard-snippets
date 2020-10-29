@@ -1,0 +1,20 @@
+{
+    "name": "mdb-5-standard-snippets",
+    "displayName": "MDB 5 Standard snippets",
+    "description": "Snippets for MDB 5 Standard",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
