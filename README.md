@@ -1,65 +1,100 @@
-# mdb-5-standard-snippets README
+# MDB 5 Standard Code Snippets
 
-This is the README for your extension "mdb-5-standard-snippets". After writing up a brief description, we recommend including the following sections.
+This extension adds snippets for MDB 5 Standard - Material Design for Bootstrap 5 UI KIT
 
-## Features
+<!-- ![Usage](https://raw.githubusercontent.com/mdbootstrap/MDB-5-Standard-snippets/master/images/demo.gif) -->
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+![Usage](./images/demo.gif)
 
-For example if there is an image subfolder under your extension project workspace:
+## Usage
 
-\!\[feature X\]\(images/feature-x.png\)
+Type part of snippet selector and press `enter`.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+Alternatively, press `Ctrl`+`Space` (Windows, Linux) or `Cmd`+`Space` (Mac OS) to display snippets list.
 
-## Requirements
+## Snippets list
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+You can find list of available snippets below:
 
-## Extension Settings
+### Fundamentals
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+| Snippet              | Description      |
+| -------------------- | ---------------- |
+| `s-mdb-html-starter` | MDB HTML starter |
+| `s-mdb-basic-layout` | MDB Basic layout |
 
-For example:
+### Layout
 
-This extension contributes the following settings:
+| Snippet               | Description              |
+| --------------------- | ------------------------ |
+| `s-mdb-grid-2col`     | MDB Grid 2 columns       |
+| `s-mdb-grid-3col`     | MDB Grid 3 columns       |
+| `s-mdb-grid-4col`     | MDB Grid 4 columns       |
+| `s-mdb-grid-centered` | MDB Grid centered column |
+| `s-mdb-section`       | MDB Section              |
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
+### Content & styles
 
-## Known Issues
+| Snippet               | Description       |
+| --------------------- | ----------------- |
+| `s-mdb-hover-effects` | MDB Hover effects |
+| `s-mdb-icon`          | MDB Icon          |
+| `s-mdb-note`          | MDB Note          |
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+### Navigation
 
-## Release Notes
+| Snippet                  | Description               |
+| ------------------------ | ------------------------- |
+| `s-mdb-footer`           | MDB Footer                |
+| `s-mdb-header-jumbotron` | MDB Header with jumbotron |
+| `s-mdb-header-image`     | MDB Header with image     |
+| `s-mdb-navbar`           | MDB Navbar                |
+| `s-mdb-pagination`       | MDB Pagination            |
+| `s-mdb-pills`            | MDB Pills                 |
 
-Users appreciate release notes as you update your extension.
+### Components
 
-### 1.0.0
+| Snippet                 | Description         |
+| ----------------------- | ------------------- |
+| `s-mdb-button`          | MDB Button          |
+| `s-mdb-button-link`     | MDB Button link     |
+| `s-mdb-button-floating` | MDB Button floating |
+| `s-mdb-button-social`   | MDB Button social   |
+| `s-mdb-card`            | MDB Card            |
+| `s-mdb-card-empty`      | MDB Card empty      |
+| `s-mdb-card-image`      | MDB Card image      |
+| `s-mdb-card-complex`    | MDB Card complex    |
+| `s-mdb-list-group`      | MDB List group      |
+| `s-mdb-modal`           | MDB Modal           |
 
-Initial release of ...
+### Forms
 
-### 1.0.1
+| Snippet          | Description  |
+| ---------------- | ------------ |
+| `s-mdb-form`     | MDB Form     |
+| `s-mdb-checkbox` | MDB Checkbox |
+| `s-mdb-radio`    | MDB Radio    |
+| `s-mdb-input`    | MDB Input    |
+| `s-mdb-textarea` | MDB Textarea |
 
-Fixed issue #.
+### Data
 
-### 1.1.0
+| Snippet       | Description |
+| ------------- | ----------- |
+| `s-mdb-table` | MDB Table   |
 
-Added features X, Y, and Z.
+### Utilities
 
------------------------------------------------------------------------------------------------------------
+| Snippet              | Description      |
+| -------------------- | ---------------- |
+| `s-mdb-embed`        | MDB Embed        |
+| `s-mdb-ripple-color` | MDB Ripple color |
+| `s-mdb-divider`      | MDB Divider      |
 
-## Working with Markdown
+## Installation
 
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+1. Launch Visual Studio Code
+2. Go to extensions tab - `Ctrl`-`Shift`-`X` (Windows, Linux) or `Cmd`-`Shift`-`X` (OSX)
+3. Search for 'MDB 5 Standard snippets'
+4. Choose the extension
+5. Install extension and reload Visual Studio Code
