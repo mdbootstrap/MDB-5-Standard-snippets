@@ -572,6 +572,13 @@
     ],
     "description": "Button"
   },
+  "Button link": {
+    "prefix": "s-mdb-button-link",
+    "body": [
+      "<a class=\"btn btn-primary\" href=\"#\" role=\"button\">Link</a>"
+    ],
+    "description": "Button link"
+  },
   "Button floating": {
     "prefix": "s-mdb-button-floating",
     "body": [

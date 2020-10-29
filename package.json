@@ -2,7 +2,14 @@
     "name": "mdb-5-standard-snippets",
     "displayName": "MDB 5 Standard snippets",
     "description": "Snippets for MDB 5 Standard",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "MDBootstrap",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mdbootstrap/MDB-5-Standard-snippets"
+    },
+    "icon": "icon.png",
+
     "engines": {
         "vscode": "^1.50.0"
     },
