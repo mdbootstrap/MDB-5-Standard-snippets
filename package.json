@@ -2,7 +2,7 @@
     "name": "mdb-5-standard-snippets",
     "displayName": "MDB 5 Standard snippets",
     "description": "Snippets for MDB 5 Standard",
-    "version": "1.1.0",
+    "version": "1.1.2",
     "publisher": "MDB",
     "repository": {
         "type": "git",
