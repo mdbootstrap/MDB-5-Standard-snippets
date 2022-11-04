@@ -200,11 +200,11 @@
   "Note": {
     "prefix": "s-mdb-note",
     "body": [
-      "<p class=\"note note-primary\">",
+      "<div class=\"note note-primary mb-3\">",
       "  <strong>Note primary:</strong> Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
       "  Cum doloremque officia laboriosam. Itaque ex obcaecati architecto! Qui necessitatibus",
       "  delectus placeat illo rem id nisi consequatur esse, sint perspiciatis soluta porro?",
-      "</p>"
+      "</div>"
     ],
     "description": "Note"
   },
