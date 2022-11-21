@@ -740,6 +740,40 @@
     ],
     "description": "List group"
   },
+  "List icons question": {
+    "prefix": "s-mdb-list-icons-question",
+    "body": [
+      "<ul class=\"list-unstyled\">",
+      "  <li class=\"mb-1\"><i class=\"fas fa-question-circle me-2 text-warning\"></i>Lorem</li>",
+      "  <li class=\"mb-1\"><i class=\"fas fa-question-circle me-2 text-warning\"></i>Ipsum</li>",
+      "  <li class=\"mb-1\"><i class=\"fas fa-question-circle me-2 text-warning\"></i>Dolor</li>",
+      "</ul>"
+    ],
+    "description": "List icons question"
+  },
+  "List icons arrow": {
+    "prefix": "s-mdb-list-icons-arrow",
+    "body": [
+      "<ul class=\"list-unstyled\">",
+      "  <li class=\"mb-1\"><i class=\"fas fa-long-arrow-alt-right me-2 text-info\"></i>Lorem</li>",
+      "  <li class=\"mb-1\"><i class=\"fas fa-long-arrow-alt-right me-2 text-info\"></i>Ipsum</li>",
+      "  <li class=\"mb-1\"><i class=\"fas fa-long-arrow-alt-right me-2 text-info\"></i>Dolor</li>",
+      "</ul>",
+      ""
+    ],
+    "description": "List icons arrow"
+  },
+  "List icons check": {
+    "prefix": "s-mdb-list-icons-check",
+    "body": [
+      "<ul class=\"list-unstyled\">",
+      "  <li class=\"mb-1\"><i class=\"fas fa-check-circle me-2 text-success\"></i>Lorem</li>",
+      "  <li class=\"mb-1\"><i class=\"fas fa-check-circle me-2 text-success\"></i>Ipsum</li>",
+      "  <li class=\"mb-1\"><i class=\"fas fa-check-circle me-2 text-success\"></i>Dolor</li>",
+      "</ul>"
+    ],
+    "description": "List icons check"
+  },
   "Modal": {
     "prefix": "s-mdb-modal",
     "body": [
